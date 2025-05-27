@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 document.addEventListener('DOMContentLoaded', () => {
     const buttons = document.querySelectorAll('.emotion-btn');
     const verseDisplay = document.getElementById('verse-display');
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
-=======
+
 document.addEventListener('DOMContentLoaded', () => {
     const buttons = document.querySelectorAll('.emotion-btn');
     const verseDisplay = document.getElementById('verse-display');
@@ -56,4 +56,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
->>>>>>> d9a72738d026b7896c8c5261de303b03c492d8e8
+

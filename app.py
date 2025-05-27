@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from flask import Flask, render_template, jsonify, request
 import json
 import random
@@ -25,7 +25,7 @@ def get_verse(emotion):
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
-=======
+
 from flask import Flask, render_template, jsonify, request
 import json
 import random
@@ -52,4 +52,4 @@ def get_verse(emotion):
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
->>>>>>> d9a72738d026b7896c8c5261de303b03c492d8e8
+
